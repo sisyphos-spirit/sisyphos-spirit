@@ -1,5 +1,5 @@
 # 👋 Hi, I’m José Manuel
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisyphos.spirit)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sisyphos.spirit)](https://github.com/anuraghazra/github-readme-stats)
 
 - 👀 I’m interested in learning and creating new things
 - 🌱 I’m currently learning CrossPlatform Application Developement
